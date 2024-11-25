@@ -31,11 +31,9 @@ Position your hand in front of the camera, and watch the magic unfold!
 Perform gestures like pinching or swiping to control your mouse effortlessly.
 This project is a step towards redefining how we interact with computers. Explore, contribute, and make it your own!
 
-📦 Installation
+##📦 Installation
 Follow these step-by-step instructions to install and run the Virtual Mouse Using Hand Gestures project:
 
-bash
-Copy code
 # Clone the repository  
 git clone https://github.com/username/virtual-mouse-hand-gestures.git  
 
@@ -52,9 +50,12 @@ pip install -r requirements.txt
 
 # Run the application  
 python virtual_mouse.py  
+
 ⚙️ Requirements
-Python 3.7 or higher
+Version :- Python 3.7 or higher
+
 A webcam
+
 Libraries: OpenCV, TensorFlow, and other dependencies listed in requirements.txt
 
 # GitHub Repository: 
