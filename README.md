@@ -31,7 +31,7 @@ Position your hand in front of the camera, and watch the magic unfold!
 Perform gestures like pinching or swiping to control your mouse effortlessly.
 This project is a step towards redefining how we interact with computers. Explore, contribute, and make it your own!
 
-##📦 Installation
+# Installation
 Follow these step-by-step instructions to install and run the Virtual Mouse Using Hand Gestures project:
 
 # Clone the repository  
