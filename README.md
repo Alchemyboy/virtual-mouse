@@ -6,10 +6,15 @@ This innovative project transforms your hand gestures into seamless cursor movem
 
 # Key Features:
 Hand Tracking: Detect and track hand movements in real-time using AI-powered algorithms.
+
 Gesture Recognition: Recognize predefined gestures for mouse clicks, drags, and scrolls.
+
 Device Independence: Works with any standard webcam, ensuring wide accessibility.
+
 Customizability: Easily extend the functionality by adding new gestures or modifying the existing ones.
+
 Performance Optimized: Lightweight design ensures minimal latency and efficient processing.
+
 Technology Stack:
 OpenCV: Real-time computer vision for hand detection and tracking.
 TensorFlow: Deep learning models for gesture recognition.
