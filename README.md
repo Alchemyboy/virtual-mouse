@@ -26,9 +26,10 @@ Accessibility: Aids users with mobility challenges by enabling hands-free naviga
 Gaming and Entertainment: Introduces immersive, gesture-based interaction for a dynamic user experience.
 
 # How to Use:
-Set up a webcam and run the project.
-Position your hand in front of the camera, and watch the magic unfold!
-Perform gestures like pinching or swiping to control your mouse effortlessly.
+I : Set up a webcam and run the project.          
+II : Position your hand in front of the camera, and watch the magic unfold!  
+III : Perform gestures like pinching or swiping to control your mouse effortlessly.   
+
 This project is a step towards redefining how we interact with computers. Explore, contribute, and make it your own!
 
 # Installation
@@ -58,7 +59,86 @@ A webcam
 
 Libraries: OpenCV, TensorFlow, and other dependencies listed in requirements.txt
 
+# Methodology
+A. Camera Used in the Virtual Gesture Mouse project
+Open-CV is python vision library that contains
+Associate in the organized AI virtual mouse system
+depends upon the edges that are gotten by the camera in
+Associate in nursing passing PC. Pictures can be
+conveyed in concealing layered with 3 channels,
+Grayscale with pixel values fluctuating from 0 (dull) to
+255 (white), and twofold portraying dim or white
+characteristics (0 or 1) specifically.
+
+
 # GitHub Repository: 
 Dive into the codebase, try it out, and contribute! Let's shape the future of touchless technology together.
 
+
+
+
+
+
+
+
+# Virtual Mouse Using Hand Gestures
+
+Empowering touchless interactions with cutting-edge computer vision and AI
+
+This innovative project transforms your hand gestures into seamless cursor movements and mouse clicks, eliminating the need for traditional input devices. Leveraging advanced OpenCV and TensorFlow frameworks, the Virtual Mouse uses real-time hand tracking and gesture recognition to provide an intuitive and futuristic human-computer interaction experience.
+
+
+
+## Features
+
+- Hand Tracking
+- Gesture Recognition
+- Device Independence:
+- Customizability
+- Performance Optimized
+- Live previews
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
